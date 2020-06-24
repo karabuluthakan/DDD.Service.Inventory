@@ -1,0 +1,15 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.Vivense.Service.Inventory/.idea/vcs.xml
+.idea/.idea.Vivense.Service.Inventory/.idea/misc.xml
+.idea/.idea.Vivense.Service.Inventory/.idea/indexLayout.xml
+.idea/.idea.Vivense.Service.Inventory/.idea/encodings.xml
+.idea/.idea.Vivense.Service.Inventory/.idea/$CACHE_FILE$
+.idea/.idea.Service.Inventory/.idea/vcs.xml
+.idea/.idea.Service.Inventory/.idea/misc.xml
+.idea/.idea.Service.Inventory/.idea/indexLayout.xml
+.idea/.idea.Service.Inventory/.idea/encodings.xml
+.idea/.idea.Service.Inventory/.idea/$CACHE_FILE$
